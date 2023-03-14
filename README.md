@@ -14,7 +14,7 @@ Two comparative machine learning models were developed to predict high and low c
 
 
 
-
+- Naive Random results printed
 ![1 Naive Random Balanced](https://user-images.githubusercontent.com/113808332/224587586-d69cc1c4-2446-4e66-9d57-4973236aa77c.png)
 
 
