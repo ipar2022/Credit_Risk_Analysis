@@ -19,7 +19,7 @@ Two comparative machine learning models were developed to predict high and low c
 
 
 ![2 Confusion matrix](https://user-images.githubusercontent.com/113808332/224588109-d7514eff-b565-4541-9590-ddfa14363d7d.png)
-
+- Confusion matrix results
 
 ![3 Imbalanced classification report](https://user-images.githubusercontent.com/113808332/224588148-7f0115b2-4d50-4962-80d2-510066d135e4.png)
 
