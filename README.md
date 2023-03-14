@@ -22,9 +22,9 @@ Two comparative machine learning models were developed to predict high and low c
 
 
 ![3 Imbalanced classification report](https://user-images.githubusercontent.com/113808332/224588148-7f0115b2-4d50-4962-80d2-510066d135e4.png)
-- Imbalanced classification results
+
 ![4 SMOTE balanced](https://user-images.githubusercontent.com/113808332/224588180-1bcef0d5-dca5-46b9-abac-91ce8e881e10.png)
-- Imbalanced classification results
+- Smote balanced results
 
 ![5 Undersampling imbalanced classification report](https://user-images.githubusercontent.com/113808332/224860245-12e5e94f-2c36-49a6-ae84-706bf0559bc8.png)
 
