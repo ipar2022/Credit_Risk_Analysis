@@ -28,9 +28,9 @@ Two comparative machine learning models were developed to predict high and low c
 
 ![5 Undersampling imbalanced classification report](https://user-images.githubusercontent.com/113808332/224860245-12e5e94f-2c36-49a6-ae84-706bf0559bc8.png)
 
-
+- Credit risk ensemble 
  ![6  imbalanced classification report](https://user-images.githubusercontent.com/113808332/224860365-be817daa-3586-44e8-ac3e-d6fb9e60e301.png)
-
+- AdaBoast results
 ![7 AdaBoast](https://user-images.githubusercontent.com/113808332/224863462-e5ea455d-a015-4ae0-b210-bdf2bab101bc.png)
 
 - 	Summary
