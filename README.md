@@ -14,13 +14,14 @@ Two comparative machine learning models were developed to predict high and low c
 
 
 
-- Naive Random results printed
+- Balanced results printed
 ![1 Naive Random Balanced](https://user-images.githubusercontent.com/113808332/224587586-d69cc1c4-2446-4e66-9d57-4973236aa77c.png)
+
 
 
 ![2 Confusion matrix](https://user-images.githubusercontent.com/113808332/224588109-d7514eff-b565-4541-9590-ddfa14363d7d.png)
 
-
+Imbalanced Classification report
 ![3 Imbalanced classification report](https://user-images.githubusercontent.com/113808332/224588148-7f0115b2-4d50-4962-80d2-510066d135e4.png)
 
 ![4 SMOTE balanced](https://user-images.githubusercontent.com/113808332/224588180-1bcef0d5-dca5-46b9-abac-91ce8e881e10.png)
@@ -34,3 +35,6 @@ Two comparative machine learning models were developed to predict high and low c
 ![7 AdaBoast](https://user-images.githubusercontent.com/113808332/224863462-e5ea455d-a015-4ae0-b210-bdf2bab101bc.png)
 
 - 	Summary
+- 	The easy ensemble offered the highest score provided the highest recall and accuracy score.
+	The data is more accurate.
+
