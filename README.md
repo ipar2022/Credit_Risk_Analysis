@@ -34,6 +34,9 @@ Imbalanced Classification report
 - AdaBoast results
 ![7 AdaBoast](https://user-images.githubusercontent.com/113808332/224863462-e5ea455d-a015-4ae0-b210-bdf2bab101bc.png)
 - The pre column prints 0.99%
+- The recall is 0.94% with a high_risk and low_risk printing very similar results. This is the the highest recall score of all of the models tested.
+- F1 produced improved results compared to all of the other models at 0.97%. This is the highest F1 score of all the models tested.
+
 - 	Summary
 - 	The easy ensemble offered the highest score provided the highest recall and accuracy score.
 	The data is more accurate.
