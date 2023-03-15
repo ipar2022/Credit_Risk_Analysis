@@ -33,7 +33,7 @@ Imbalanced Classification report
  ![6  imbalanced classification report](https://user-images.githubusercontent.com/113808332/224860365-be817daa-3586-44e8-ac3e-d6fb9e60e301.png)
 - AdaBoast results
 ![7 AdaBoast](https://user-images.githubusercontent.com/113808332/224863462-e5ea455d-a015-4ae0-b210-bdf2bab101bc.png)
-
+- The pre column prints 0.99%
 - 	Summary
 - 	The easy ensemble offered the highest score provided the highest recall and accuracy score.
 	The data is more accurate.
