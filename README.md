@@ -42,4 +42,5 @@ Two comparative machine learning models were developed to predict high and low c
 - 	Summary
 - 	The easy ensemble offered the highest score provided the highest recall and accuracy score.
 	The data is more accurate.
+- 	Out of the two modules Resampling and Ensemble I would recommend Easy ensemble.
 
